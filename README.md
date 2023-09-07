@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔭 I’m currently working on learning to become a full stack dev
+🌱 I’m currently learning JavaScript
+👯 I’m looking to collaborate on coding
+🤔 I’m looking for help with coding
+💬 Ask me about FTPs, sports, and travel
+📫 How to reach me: arapoport918@gmail.com
+😄 Pronouns: she/her/hers 
+⚡ Fun fact: I lived in Italy for five years 
+
+
 <!--
 **arapoport918/arapoport918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
