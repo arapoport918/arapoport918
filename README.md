@@ -3,8 +3,8 @@
 🔭 I’m currently working on learning to become a full stack dev
 🌱 I’m currently learning JavaScript
 👯 I’m looking to collaborate on coding
-🤔 I’m looking for help with coding
-💬 Ask me about FTPs, sports, and travel
+🤔 I’m looking to learn more about new technologies
+💬 Ask me about Java, SQL, vue.js, sports, and travel
 📫 How to reach me: arapoport918@gmail.com
 😄 Pronouns: she/her/hers 
 ⚡ Fun fact: I lived in Italy for five years 
