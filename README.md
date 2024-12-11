@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on learning to become a full stack dev
-🌱 I’m currently learning JavaScript
+🔭 I’m currently working as a full stack engineer in sports
+🌱 I’m currently learning Angular and AI Programming
 👯 I’m looking to collaborate on coding
 🤔 I’m looking to learn more about new technologies
-💬 Ask me about Java, SQL, vue.js, sports, and travel
+💬 Ask me about Java, Spring Boot, SQL, vue.js, Angular, sports, and travel
 📫 How to reach me: arapoport918@gmail.com
 😄 Pronouns: she/her/hers 
 ⚡ Fun fact: I lived in Italy for five years 
